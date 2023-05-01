@@ -1,5 +1,6 @@
+from __future__ import annotations
+
 import os
-from typing import Union
 
 import cv2
 import numpy as np
@@ -44,7 +45,7 @@ def flatten(values: list[list]) -> list:
     return [val for value in values for val in value]
 
 
-def animate_observations(frames: Union[np.ndarray, list[np.ndarray]], filename: str):
+def animate_observations(frames: np.ndarray | list[np.ndarray], filename: str):
     """Animates the observations and saves to the filename.
 
     Args:

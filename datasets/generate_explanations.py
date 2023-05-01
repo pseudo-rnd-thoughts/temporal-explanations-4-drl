@@ -28,8 +28,8 @@ from temporal_explanations_4_xrl.explain import (
     generate_obs_to_explain,
     generate_plan_explanation,
     generate_skill_explanation,
-    save_contrastive_explanation,
-    save_individual_explanation,
+    save_observation_with_explanation,
+    save_observation_with_two_explanations,
 )
 from temporal_explanations_4_xrl.plan import Plan
 from temporal_explanations_4_xrl.skill import skill_labels_to_trajectory_skills
@@ -156,7 +156,7 @@ def generate_dataset_explanations(
         dataset_explanations = dataset_explanations.reshape(
             (-1,) + dataset_explanations.shape[2:]
         )
-        save_individual_explanation(
+        save_observation_with_explanation(
             obs=explain_human_obs[i],
             explanation=dataset_explanations,
             filename=f"{dataset_folder}/explanation-{i}/{agent_name}-{env_name}-{i}-dataset-explanation",
@@ -171,14 +171,10 @@ def generate_dataset_explanations(
             visualise_dataset_obs=human_obs,
         )
         skill_explanations = np.concatenate(skill_explanations)
-        save_individual_explanation(
+        save_observation_with_explanation(
             obs=explain_human_obs[i],
             explanation=skill_explanations,
             filename=f"{dataset_folder}/explanation-{i}/{agent_name}-{env_name}-{i}-skill-explanation",
-        )
-
-        print(
-            f"Dataset length: {len(dataset_explanations)}, skill explanation length: {len(skill_explanations)}"
         )
 
         # Plan explanation
@@ -194,7 +190,7 @@ def generate_dataset_explanations(
             np.concatenate(plan_visual_explanations),
             plan_expert_knowledge_explanation,
         )
-        save_individual_explanation(
+        save_observation_with_explanation(
             obs=explain_human_obs[i],
             explanation=plan_explanations,
             filename=f"{dataset_folder}/explanation-{i}/{agent_name}-{env_name}-{i}-plan-explanation",
@@ -213,7 +209,7 @@ def generate_dataset_explanations(
             atari_greyscale_saliency_map(explain_agent_obs[i], gradcam_explanation),
             axis=0,
         )
-        save_individual_explanation(
+        save_observation_with_explanation(
             obs=explain_human_obs[i],
             explanation=gradcam_explanation,
             filename=f"{dataset_folder}/explanation-{i}/{agent_name}-{env_name}-{i}-gradcam-explanation",
@@ -232,7 +228,7 @@ def generate_dataset_explanations(
             ),
             axis=0,
         )
-        save_individual_explanation(
+        save_observation_with_explanation(
             obs=explain_human_obs[i],
             explanation=perturbation_explanation,
             filename=f"{dataset_folder}/explanation-{i}/{agent_name}-{env_name}-{i}-perturbation-explanation",
@@ -262,7 +258,7 @@ def generate_dataset_explanations(
                     explanation_2_name,
                     explanation_1_name,
                 )
-            save_contrastive_explanation(
+            save_observation_with_two_explanations(
                 obs=explain_human_obs[i],
                 explanation_1=explanation_1,
                 explanation_2=explanation_2,

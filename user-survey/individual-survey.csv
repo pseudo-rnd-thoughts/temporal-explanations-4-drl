@@ -1,0 +1,1561 @@
+Survey,UserID,ExplanationType,QuestionType,QuestionNumber,Environment,Answer,LikertRating
+1,2,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",0,Breakout,Strongly Agree,5
+1,2,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,0,Breakout,Agree,4
+1,2,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,0,Breakout,Agree,4
+1,2,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",0,Breakout,Neutral,3
+1,2,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+1,2,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+1,2,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Disagree,2
+1,2,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+1,2,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",2,Seaquest,Agree,4
+1,2,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,2,Seaquest,Agree,4
+1,2,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,2,Seaquest,Agree,4
+1,2,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",2,Seaquest,Agree,4
+1,2,Skill Explanation,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+1,2,Skill Explanation,This explanation of how the agent works has sufficient detail.,3,Breakout,Disagree,2
+1,2,Skill Explanation,This explanation of how the agent works is satisfying.,3,Breakout,Disagree,2
+1,2,Skill Explanation,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+1,2,Skill Explanation,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Disagree,2
+1,2,Skill Explanation,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Disagree,2
+1,2,Skill Explanation,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Disagree,2
+1,2,Skill Explanation,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+1,2,Skill Explanation,"From the explanation, I understand how the agent works.",5,Seaquest,Agree,4
+1,2,Skill Explanation,This explanation of how the agent works has sufficient detail.,5,Seaquest,Agree,4
+1,2,Skill Explanation,This explanation of how the agent works is satisfying.,5,Seaquest,Agree,4
+1,2,Skill Explanation,"Using the explanation, I can predict the agent's next action",5,Seaquest,Agree,4
+1,2,Plan Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+1,2,Plan Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Neutral,3
+1,2,Plan Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Neutral,3
+1,2,Plan Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Disagree,2
+1,2,Plan Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+1,2,Plan Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+1,2,Plan Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+1,2,Plan Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+1,2,Plan Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+1,2,Plan Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+1,2,Plan Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+1,2,Plan Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+1,2,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+1,2,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+1,2,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,9,Breakout,Agree,4
+1,2,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+1,2,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+1,2,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Agree,4
+1,2,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Agree,4
+1,2,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+1,2,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+1,2,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+1,2,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+1,2,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+1,2,Grad-CAM,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+1,2,Grad-CAM,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+1,2,Grad-CAM,This explanation of how the agent works is satisfying.,12,Breakout,Agree,4
+1,2,Grad-CAM,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+1,2,Grad-CAM,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Disagree,2
+1,2,Grad-CAM,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Disagree,2
+1,2,Grad-CAM,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Disagree,2
+1,2,Grad-CAM,"Using the explanation, I can predict the agent's next action",13,SpaceInvaders,Disagree,2
+1,2,Grad-CAM,"From the explanation, I understand how the agent works.",14,Seaquest,Disagree,2
+1,2,Grad-CAM,This explanation of how the agent works has sufficient detail.,14,Seaquest,Disagree,2
+1,2,Grad-CAM,This explanation of how the agent works is satisfying.,14,Seaquest,Disagree,2
+1,2,Grad-CAM,"Using the explanation, I can predict the agent's next action",14,Seaquest,Disagree,2
+1,3,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+1,3,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,0,Breakout,Agree,4
+1,3,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,0,Breakout,Agree,4
+1,3,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",0,Breakout,Agree,4
+1,3,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Agree,4
+1,3,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Agree,4
+1,3,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Agree,4
+1,3,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Strongly Agree,5
+1,3,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",2,Seaquest,Agree,4
+1,3,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,2,Seaquest,Neutral,3
+1,3,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,2,Seaquest,Neutral,3
+1,3,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",2,Seaquest,Neutral,3
+1,3,Skill Explanation,"From the explanation, I understand how the agent works.",3,Breakout,Strongly Agree,5
+1,3,Skill Explanation,This explanation of how the agent works has sufficient detail.,3,Breakout,Agree,4
+1,3,Skill Explanation,This explanation of how the agent works is satisfying.,3,Breakout,Agree,4
+1,3,Skill Explanation,"Using the explanation, I can predict the agent's next action",3,Breakout,Agree,4
+1,3,Skill Explanation,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Agree,4
+1,3,Skill Explanation,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Agree,4
+1,3,Skill Explanation,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Agree,4
+1,3,Skill Explanation,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Agree,4
+1,3,Skill Explanation,"From the explanation, I understand how the agent works.",5,Seaquest,Agree,4
+1,3,Skill Explanation,This explanation of how the agent works has sufficient detail.,5,Seaquest,Agree,4
+1,3,Skill Explanation,This explanation of how the agent works is satisfying.,5,Seaquest,Agree,4
+1,3,Skill Explanation,"Using the explanation, I can predict the agent's next action",5,Seaquest,Agree,4
+1,3,Plan Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Strongly Agree,5
+1,3,Plan Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Strongly Agree,5
+1,3,Plan Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Strongly Agree,5
+1,3,Plan Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+1,3,Plan Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Strongly Agree,5
+1,3,Plan Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Strongly Agree,5
+1,3,Plan Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Strongly Agree,5
+1,3,Plan Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Strongly Agree,5
+1,3,Plan Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Strongly Agree,5
+1,3,Plan Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Strongly Agree,5
+1,3,Plan Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Strongly Agree,5
+1,3,Plan Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",9,Breakout,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,9,Breakout,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,9,Breakout,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",9,Breakout,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",11,Seaquest,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,11,Seaquest,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Agree,5
+1,3,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",11,Seaquest,Strongly Agree,5
+1,3,Grad-CAM,"From the explanation, I understand how the agent works.",12,Breakout,Neutral,3
+1,3,Grad-CAM,This explanation of how the agent works has sufficient detail.,12,Breakout,Neutral,3
+1,3,Grad-CAM,This explanation of how the agent works is satisfying.,12,Breakout,Agree,4
+1,3,Grad-CAM,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+1,3,Grad-CAM,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+1,3,Grad-CAM,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Agree,4
+1,3,Grad-CAM,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Agree,4
+1,3,Grad-CAM,"Using the explanation, I can predict the agent's next action",13,SpaceInvaders,Agree,4
+1,3,Grad-CAM,"From the explanation, I understand how the agent works.",14,Seaquest,Disagree,2
+1,3,Grad-CAM,This explanation of how the agent works has sufficient detail.,14,Seaquest,Disagree,2
+1,3,Grad-CAM,This explanation of how the agent works is satisfying.,14,Seaquest,Neutral,3
+1,3,Grad-CAM,"Using the explanation, I can predict the agent's next action",14,Seaquest,Neutral,3
+1,4,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+1,4,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,0,Breakout,Agree,4
+1,4,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,0,Breakout,Agree,4
+1,4,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",0,Breakout,Agree,4
+1,4,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Agree,4
+1,4,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Agree,4
+1,4,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Agree,4
+1,4,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Agree,4
+1,4,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",2,Seaquest,Agree,4
+1,4,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,2,Seaquest,Agree,4
+1,4,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,2,Seaquest,Agree,4
+1,4,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",2,Seaquest,Agree,4
+1,4,Skill Explanation,"From the explanation, I understand how the agent works.",3,Breakout,Agree,4
+1,4,Skill Explanation,This explanation of how the agent works has sufficient detail.,3,Breakout,Agree,4
+1,4,Skill Explanation,This explanation of how the agent works is satisfying.,3,Breakout,Agree,4
+1,4,Skill Explanation,"Using the explanation, I can predict the agent's next action",3,Breakout,Agree,4
+1,4,Skill Explanation,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Agree,4
+1,4,Skill Explanation,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Agree,4
+1,4,Skill Explanation,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Agree,4
+1,4,Skill Explanation,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Agree,4
+1,4,Skill Explanation,"From the explanation, I understand how the agent works.",5,Seaquest,Agree,4
+1,4,Skill Explanation,This explanation of how the agent works has sufficient detail.,5,Seaquest,Agree,4
+1,4,Skill Explanation,This explanation of how the agent works is satisfying.,5,Seaquest,Agree,4
+1,4,Skill Explanation,"Using the explanation, I can predict the agent's next action",5,Seaquest,Agree,4
+1,4,Plan Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+1,4,Plan Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+1,4,Plan Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+1,4,Plan Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+1,4,Plan Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+1,4,Plan Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+1,4,Plan Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+1,4,Plan Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+1,4,Plan Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+1,4,Plan Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+1,4,Plan Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+1,4,Plan Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+1,4,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+1,4,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+1,4,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,9,Breakout,Agree,4
+1,4,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+1,4,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+1,4,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Agree,4
+1,4,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Agree,4
+1,4,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+1,4,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+1,4,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+1,4,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+1,4,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+1,4,Grad-CAM,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+1,4,Grad-CAM,This explanation of how the agent works has sufficient detail.,12,Breakout,Neutral,3
+1,4,Grad-CAM,This explanation of how the agent works is satisfying.,12,Breakout,Neutral,3
+1,4,Grad-CAM,"Using the explanation, I can predict the agent's next action",12,Breakout,Neutral,3
+1,4,Grad-CAM,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Neutral,3
+1,4,Grad-CAM,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Neutral,3
+1,4,Grad-CAM,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Neutral,3
+1,4,Grad-CAM,"Using the explanation, I can predict the agent's next action",13,SpaceInvaders,Neutral,3
+1,4,Grad-CAM,"From the explanation, I understand how the agent works.",14,Seaquest,Agree,4
+1,4,Grad-CAM,This explanation of how the agent works has sufficient detail.,14,Seaquest,Agree,4
+1,4,Grad-CAM,This explanation of how the agent works is satisfying.,14,Seaquest,Agree,4
+1,4,Grad-CAM,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+1,5,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",0,Breakout,Strongly Agree,5
+1,5,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,0,Breakout,Agree,4
+1,5,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,0,Breakout,Agree,4
+1,5,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",0,Breakout,Neutral,3
+1,5,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Strongly Agree,5
+1,5,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Agree,4
+1,5,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Agree,4
+1,5,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Neutral,3
+1,5,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",2,Seaquest,Strongly Agree,5
+1,5,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,2,Seaquest,Agree,4
+1,5,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,2,Seaquest,Agree,4
+1,5,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",2,Seaquest,Neutral,3
+1,5,Skill Explanation,"From the explanation, I understand how the agent works.",3,Breakout,Strongly Agree,5
+1,5,Skill Explanation,This explanation of how the agent works has sufficient detail.,3,Breakout,Agree,4
+1,5,Skill Explanation,This explanation of how the agent works is satisfying.,3,Breakout,Agree,4
+1,5,Skill Explanation,"Using the explanation, I can predict the agent's next action",3,Breakout,Neutral,3
+1,5,Skill Explanation,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Strongly Agree,5
+1,5,Skill Explanation,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Agree,4
+1,5,Skill Explanation,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Agree,4
+1,5,Skill Explanation,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Neutral,3
+1,5,Skill Explanation,"From the explanation, I understand how the agent works.",5,Seaquest,Strongly Agree,5
+1,5,Skill Explanation,This explanation of how the agent works has sufficient detail.,5,Seaquest,Agree,4
+1,5,Skill Explanation,This explanation of how the agent works is satisfying.,5,Seaquest,Agree,4
+1,5,Skill Explanation,"Using the explanation, I can predict the agent's next action",5,Seaquest,Neutral,3
+1,5,Plan Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Strongly Agree,5
+1,5,Plan Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Strongly Agree,5
+1,5,Plan Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Strongly Agree,5
+1,5,Plan Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+1,5,Plan Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Strongly Agree,5
+1,5,Plan Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Strongly Agree,5
+1,5,Plan Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Strongly Agree,5
+1,5,Plan Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+1,5,Plan Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Strongly Agree,5
+1,5,Plan Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Strongly Agree,5
+1,5,Plan Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Strongly Agree,5
+1,5,Plan Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+1,5,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",9,Breakout,Neutral,3
+1,5,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,9,Breakout,Neutral,3
+1,5,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,9,Breakout,Disagree,2
+1,5,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",9,Breakout,Disagree,2
+1,5,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Neutral,3
+1,5,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Neutral,3
+1,5,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Disagree,2
+1,5,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Disagree,2
+1,5,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",11,Seaquest,Neutral,3
+1,5,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,11,Seaquest,Neutral,3
+1,5,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,11,Seaquest,Disagree,2
+1,5,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",11,Seaquest,Disagree,2
+1,5,Grad-CAM,"From the explanation, I understand how the agent works.",12,Breakout,Disagree,2
+1,5,Grad-CAM,This explanation of how the agent works has sufficient detail.,12,Breakout,Disagree,2
+1,5,Grad-CAM,This explanation of how the agent works is satisfying.,12,Breakout,Disagree,2
+1,5,Grad-CAM,"Using the explanation, I can predict the agent's next action",12,Breakout,Disagree,2
+1,5,Grad-CAM,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Disagree,2
+1,5,Grad-CAM,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Disagree,2
+1,5,Grad-CAM,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Disagree,2
+1,5,Grad-CAM,"Using the explanation, I can predict the agent's next action",13,SpaceInvaders,Disagree,2
+1,5,Grad-CAM,"From the explanation, I understand how the agent works.",14,Seaquest,Disagree,2
+1,5,Grad-CAM,This explanation of how the agent works has sufficient detail.,14,Seaquest,Disagree,2
+1,5,Grad-CAM,This explanation of how the agent works is satisfying.,14,Seaquest,Disagree,2
+1,5,Grad-CAM,"Using the explanation, I can predict the agent's next action",14,Seaquest,Disagree,2
+1,6,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",0,Breakout,Disagree,2
+1,6,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+1,6,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,0,Breakout,Neutral,3
+1,6,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",0,Breakout,Agree,4
+1,6,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+1,6,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+1,6,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Neutral,3
+1,6,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Agree,4
+1,6,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+1,6,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,2,Seaquest,Disagree,2
+1,6,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,2,Seaquest,Neutral,3
+1,6,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",2,Seaquest,Agree,4
+1,6,Skill Explanation,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+1,6,Skill Explanation,This explanation of how the agent works has sufficient detail.,3,Breakout,Disagree,2
+1,6,Skill Explanation,This explanation of how the agent works is satisfying.,3,Breakout,Neutral,3
+1,6,Skill Explanation,"Using the explanation, I can predict the agent's next action",3,Breakout,Agree,4
+1,6,Skill Explanation,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Disagree,2
+1,6,Skill Explanation,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Disagree,2
+1,6,Skill Explanation,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Neutral,3
+1,6,Skill Explanation,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Agree,4
+1,6,Skill Explanation,"From the explanation, I understand how the agent works.",5,Seaquest,Disagree,2
+1,6,Skill Explanation,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+1,6,Skill Explanation,This explanation of how the agent works is satisfying.,5,Seaquest,Neutral,3
+1,6,Skill Explanation,"Using the explanation, I can predict the agent's next action",5,Seaquest,Agree,4
+1,6,Plan Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+1,6,Plan Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+1,6,Plan Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Neutral,3
+1,6,Plan Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+1,6,Plan Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+1,6,Plan Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+1,6,Plan Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Neutral,3
+1,6,Plan Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+1,6,Plan Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+1,6,Plan Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+1,6,Plan Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Neutral,3
+1,6,Plan Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+1,6,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",9,Breakout,Neutral,3
+1,6,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,9,Breakout,Disagree,2
+1,6,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,9,Breakout,Neutral,3
+1,6,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",9,Breakout,Disagree,2
+1,6,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Neutral,3
+1,6,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Disagree,2
+1,6,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Neutral,3
+1,6,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Disagree,2
+1,6,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",11,Seaquest,Neutral,3
+1,6,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,11,Seaquest,Disagree,2
+1,6,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,11,Seaquest,Neutral,3
+1,6,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",11,Seaquest,Disagree,2
+1,6,Grad-CAM,"From the explanation, I understand how the agent works.",12,Breakout,Neutral,3
+1,6,Grad-CAM,This explanation of how the agent works has sufficient detail.,12,Breakout,Disagree,2
+1,6,Grad-CAM,This explanation of how the agent works is satisfying.,12,Breakout,Neutral,3
+1,6,Grad-CAM,"Using the explanation, I can predict the agent's next action",12,Breakout,Disagree,2
+1,6,Grad-CAM,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Neutral,3
+1,6,Grad-CAM,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Disagree,2
+1,6,Grad-CAM,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Neutral,3
+1,6,Grad-CAM,"Using the explanation, I can predict the agent's next action",13,SpaceInvaders,Disagree,2
+1,6,Grad-CAM,"From the explanation, I understand how the agent works.",14,Seaquest,Disagree,2
+1,6,Grad-CAM,This explanation of how the agent works has sufficient detail.,14,Seaquest,Disagree,2
+1,6,Grad-CAM,This explanation of how the agent works is satisfying.,14,Seaquest,Neutral,3
+1,6,Grad-CAM,"Using the explanation, I can predict the agent's next action",14,Seaquest,Disagree,2
+1,7,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",0,Breakout,Neutral,3
+1,7,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+1,7,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,0,Breakout,Strongly Disagree,1
+1,7,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",0,Breakout,Strongly Disagree,1
+1,7,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Neutral,3
+1,7,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+1,7,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Strongly Disagree,1
+1,7,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Strongly Disagree,1
+1,7,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+1,7,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,2,Seaquest,Strongly Disagree,1
+1,7,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,2,Seaquest,Strongly Disagree,1
+1,7,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",2,Seaquest,Strongly Disagree,1
+1,7,Skill Explanation,"From the explanation, I understand how the agent works.",3,Breakout,Neutral,3
+1,7,Skill Explanation,This explanation of how the agent works has sufficient detail.,3,Breakout,Disagree,2
+1,7,Skill Explanation,This explanation of how the agent works is satisfying.,3,Breakout,Strongly Disagree,1
+1,7,Skill Explanation,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+1,7,Skill Explanation,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Neutral,3
+1,7,Skill Explanation,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Disagree,2
+1,7,Skill Explanation,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Strongly Disagree,1
+1,7,Skill Explanation,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Strongly Disagree,1
+1,7,Skill Explanation,"From the explanation, I understand how the agent works.",5,Seaquest,Agree,4
+1,7,Skill Explanation,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+1,7,Skill Explanation,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+1,7,Skill Explanation,"Using the explanation, I can predict the agent's next action",5,Seaquest,Strongly Disagree,1
+1,7,Plan Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Neutral,3
+1,7,Plan Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Disagree,2
+1,7,Plan Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Neutral,3
+1,7,Plan Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Strongly Disagree,1
+1,7,Plan Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Disagree,2
+1,7,Plan Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Disagree,2
+1,7,Plan Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Disagree,2
+1,7,Plan Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Strongly Disagree,1
+1,7,Plan Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Neutral,3
+1,7,Plan Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Disagree,2
+1,7,Plan Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Neutral,3
+1,7,Plan Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Strongly Disagree,1
+1,7,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",9,Breakout,Disagree,2
+1,7,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,9,Breakout,Disagree,2
+1,7,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,9,Breakout,Disagree,2
+1,7,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",9,Breakout,Strongly Disagree,1
+1,7,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Disagree,2
+1,7,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Disagree,2
+1,7,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Strongly Disagree,1
+1,7,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Strongly Disagree,1
+1,7,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",11,Seaquest,Strongly Disagree,1
+1,7,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,11,Seaquest,Strongly Disagree,1
+1,7,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Disagree,1
+1,7,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",11,Seaquest,Strongly Disagree,1
+1,7,Grad-CAM,"From the explanation, I understand how the agent works.",12,Breakout,Disagree,2
+1,7,Grad-CAM,This explanation of how the agent works has sufficient detail.,12,Breakout,Disagree,2
+1,7,Grad-CAM,This explanation of how the agent works is satisfying.,12,Breakout,Disagree,2
+1,7,Grad-CAM,"Using the explanation, I can predict the agent's next action",12,Breakout,Strongly Disagree,1
+1,7,Grad-CAM,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Disagree,2
+1,7,Grad-CAM,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Disagree,1
+1,7,Grad-CAM,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Disagree,1
+1,7,Grad-CAM,"Using the explanation, I can predict the agent's next action",13,SpaceInvaders,Strongly Disagree,1
+1,7,Grad-CAM,"From the explanation, I understand how the agent works.",14,Seaquest,Strongly Disagree,1
+1,7,Grad-CAM,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Disagree,1
+1,7,Grad-CAM,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Disagree,1
+1,7,Grad-CAM,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Strongly Disagree,1
+2,1,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Strongly Disagree,1
+2,1,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Strongly Disagree,1
+2,1,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Strongly Disagree,1
+2,1,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Strongly Disagree,1
+2,1,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Strongly Disagree,1
+2,1,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Strongly Disagree,1
+2,1,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Strongly Disagree,1
+2,1,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Strongly Disagree,1
+2,1,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Strongly Disagree,1
+2,1,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Strongly Disagree,1
+2,1,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Strongly Disagree,1
+2,1,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Strongly Disagree,1
+2,1,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Strongly Disagree,1
+2,1,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,1,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,1,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,1,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Disagree,2
+2,1,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,1,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+2,1,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+2,1,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Disagree,2
+2,1,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,1,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+2,1,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+2,1,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,1,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,1,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Neutral,3
+2,1,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Agree,4
+2,1,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Neutral,3
+2,1,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Disagree,2
+2,1,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Disagree,2
+2,1,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Agree,4
+2,1,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Disagree,2
+2,1,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,1,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,1,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,1,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,1,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Neutral,3
+2,1,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,1,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Disagree,2
+2,1,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Disagree,2
+2,1,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,1,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,1,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Disagree,2
+2,1,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Agree,4
+2,1,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Disagree,2
+2,1,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Disagree,2
+2,1,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Agree,4
+2,1,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Disagree,2
+2,2,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Strongly Disagree,1
+2,2,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+2,2,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Disagree,2
+2,2,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,2,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Strongly Disagree,1
+2,2,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,2,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Disagree,2
+2,2,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+2,2,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Strongly Disagree,1
+2,2,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Disagree,2
+2,2,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Disagree,2
+2,2,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Strongly Disagree,1
+2,2,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Agree,4
+2,2,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Neutral,3
+2,2,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Neutral,3
+2,2,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Agree,4
+2,2,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Agree,4
+2,2,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Neutral,3
+2,2,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Neutral,3
+2,2,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+2,2,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Agree,4
+2,2,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Neutral,3
+2,2,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Neutral,3
+2,2,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Strongly Disagree,1
+2,2,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Strongly Agree,5
+2,2,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Strongly Agree,5
+2,2,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Strongly Agree,5
+2,2,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+2,2,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Strongly Agree,5
+2,2,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Strongly Agree,5
+2,2,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Strongly Agree,5
+2,2,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+2,2,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Strongly Agree,5
+2,2,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Strongly Agree,5
+2,2,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Strongly Agree,5
+2,2,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,2,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,2,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Neutral,3
+2,2,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Neutral,3
+2,2,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,2,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+2,2,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Neutral,3
+2,2,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Neutral,3
+2,2,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,2,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,2,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Neutral,3
+2,2,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Neutral,3
+2,2,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,2,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,2,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,2,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,2,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+2,2,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,2,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,2,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Agree,4
+2,2,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Agree,4
+2,2,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Agree,4
+2,2,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,2,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Agree,4
+2,2,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,3,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Strongly Disagree,1
+2,3,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Strongly Disagree,1
+2,3,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Strongly Disagree,1
+2,3,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Strongly Disagree,1
+2,3,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Strongly Disagree,1
+2,3,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Strongly Disagree,1
+2,3,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Strongly Disagree,1
+2,3,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Strongly Disagree,1
+2,3,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Strongly Disagree,1
+2,3,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Strongly Disagree,1
+2,3,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Strongly Disagree,1
+2,3,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Strongly Disagree,1
+2,3,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Strongly Disagree,1
+2,3,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Strongly Disagree,1
+2,3,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Strongly Disagree,1
+2,3,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Strongly Disagree,1
+2,3,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Strongly Disagree,1
+2,3,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Strongly Disagree,1
+2,3,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Strongly Disagree,1
+2,3,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Strongly Disagree,1
+2,3,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Strongly Disagree,1
+2,3,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Strongly Disagree,1
+2,3,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Strongly Disagree,1
+2,3,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Strongly Disagree,1
+2,3,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Strongly Disagree,1
+2,3,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Disagree,1
+2,3,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Strongly Disagree,1
+2,3,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Disagree,1
+2,3,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Strongly Disagree,1
+2,3,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Strongly Disagree,1
+2,3,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Strongly Disagree,1
+2,3,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Disagree,1
+2,3,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Disagree,2
+2,3,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Disagree,2
+2,3,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Disagree,1
+2,3,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Disagree,1
+2,3,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Disagree,1
+2,3,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Disagree,1
+2,3,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Disagree,1
+2,4,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+2,4,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Neutral,3
+2,4,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Neutral,3
+2,4,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Agree,4
+2,4,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Agree,4
+2,4,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Neutral,3
+2,4,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Neutral,3
+2,4,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Agree,4
+2,4,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Agree,4
+2,4,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Agree,4
+2,4,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Agree,4
+2,4,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Agree,4
+2,4,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Strongly Agree,5
+2,4,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Agree,4
+2,4,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Agree,4
+2,4,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Agree,4
+2,4,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Strongly Agree,5
+2,4,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Agree,4
+2,4,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Agree,4
+2,4,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Strongly Agree,5
+2,4,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Neutral,3
+2,4,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Agree,4
+2,4,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Agree,4
+2,4,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Neutral,3
+2,4,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Strongly Agree,5
+2,4,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,4,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,4,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Strongly Agree,5
+2,4,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,4,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+2,4,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+2,4,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Strongly Agree,5
+2,4,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Strongly Agree,5
+2,4,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+2,4,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+2,4,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Strongly Agree,5
+2,4,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,4,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+2,4,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Agree,4
+2,4,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Strongly Agree,5
+2,4,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+2,4,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Agree,4
+2,4,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Agree,4
+2,4,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,4,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,4,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,4,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,4,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,4,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Agree,5
+2,4,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Strongly Agree,5
+2,4,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Strongly Agree,5
+2,4,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Strongly Agree,5
+2,4,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,4,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,4,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,4,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Agree,5
+2,4,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Agree,5
+2,4,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,4,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Agree,5
+2,4,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,5,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Neutral,3
+2,5,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+2,5,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Strongly Disagree,1
+2,5,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Agree,4
+2,5,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Neutral,3
+2,5,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,5,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Strongly Disagree,1
+2,5,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+2,5,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+2,5,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Strongly Disagree,1
+2,5,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Strongly Disagree,1
+2,5,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Strongly Disagree,1
+2,5,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+2,5,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Strongly Disagree,1
+2,5,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Strongly Disagree,1
+2,5,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Agree,4
+2,5,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Disagree,2
+2,5,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Strongly Disagree,1
+2,5,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Strongly Disagree,1
+2,5,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Strongly Disagree,1
+2,5,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Strongly Disagree,1
+2,5,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Strongly Disagree,1
+2,5,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Strongly Disagree,1
+2,5,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Strongly Disagree,1
+2,5,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,5,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Strongly Disagree,1
+2,5,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Strongly Disagree,1
+2,5,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Strongly Agree,5
+2,5,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,5,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Strongly Disagree,1
+2,5,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Strongly Disagree,1
+2,5,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Strongly Agree,5
+2,5,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,5,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Strongly Disagree,1
+2,5,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Strongly Disagree,1
+2,5,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,5,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,5,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Strongly Disagree,1
+2,5,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Strongly Disagree,1
+2,5,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,5,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+2,5,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Strongly Disagree,1
+2,5,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Strongly Disagree,1
+2,5,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,5,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,5,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Strongly Disagree,1
+2,5,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Disagree,1
+2,5,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,5,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Disagree,2
+2,5,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Strongly Agree,5
+2,5,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,5,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Neutral,3
+2,5,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,5,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,5,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Disagree,2
+2,5,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Neutral,3
+2,5,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Neutral,3
+2,5,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,5,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Disagree,2
+2,5,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,6,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+2,6,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Agree,4
+2,6,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Agree,4
+2,6,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Agree,4
+2,6,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Agree,4
+2,6,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Agree,4
+2,6,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Agree,4
+2,6,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Agree,4
+2,6,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Agree,4
+2,6,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Agree,4
+2,6,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Agree,4
+2,6,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Neutral,3
+2,6,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Agree,4
+2,6,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Agree,4
+2,6,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Agree,4
+2,6,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Agree,4
+2,6,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Strongly Agree,5
+2,6,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Agree,4
+2,6,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Agree,4
+2,6,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Agree,4
+2,6,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Agree,4
+2,6,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Agree,4
+2,6,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Agree,4
+2,6,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Agree,4
+2,6,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Strongly Agree,5
+2,6,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Strongly Agree,5
+2,6,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Strongly Agree,5
+2,6,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Strongly Agree,5
+2,6,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Strongly Agree,5
+2,6,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Strongly Agree,5
+2,6,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Strongly Agree,5
+2,6,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Strongly Agree,5
+2,6,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Strongly Agree,5
+2,6,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Strongly Agree,5
+2,6,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Strongly Agree,5
+2,6,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Strongly Agree,5
+2,6,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,6,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Neutral,3
+2,6,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Neutral,3
+2,6,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,6,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+2,6,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Neutral,3
+2,6,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Neutral,3
+2,6,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,6,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,6,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,6,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,6,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,6,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,6,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,6,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,6,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+2,6,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,6,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,6,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,6,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Agree,5
+2,6,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Agree,5
+2,6,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,6,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Agree,5
+2,6,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,7,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Disagree,2
+2,7,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+2,7,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Neutral,3
+2,7,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Strongly Disagree,1
+2,7,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,7,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,7,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Neutral,3
+2,7,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Strongly Disagree,1
+2,7,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Strongly Disagree,1
+2,7,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Strongly Disagree,1
+2,7,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Disagree,2
+2,7,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Strongly Disagree,1
+2,7,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Neutral,3
+2,7,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Disagree,2
+2,7,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Neutral,3
+2,7,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Strongly Disagree,1
+2,7,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Strongly Disagree,1
+2,7,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Strongly Disagree,1
+2,7,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Disagree,2
+2,7,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Strongly Disagree,1
+2,7,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Strongly Disagree,1
+2,7,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Strongly Disagree,1
+2,7,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+2,7,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Strongly Disagree,1
+2,7,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Neutral,3
+2,7,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Disagree,2
+2,7,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Neutral,3
+2,7,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Strongly Agree,5
+2,7,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Neutral,3
+2,7,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Disagree,2
+2,7,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Neutral,3
+2,7,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Strongly Agree,5
+2,7,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Neutral,3
+2,7,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Disagree,2
+2,7,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Neutral,3
+2,7,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Strongly Agree,5
+2,7,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Neutral,3
+2,7,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Neutral,3
+2,7,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Neutral,3
+2,7,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Strongly Agree,5
+2,7,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Neutral,3
+2,7,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Neutral,3
+2,7,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Neutral,3
+2,7,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Strongly Agree,5
+2,7,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Neutral,3
+2,7,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Neutral,3
+2,7,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Neutral,3
+2,7,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Strongly Agree,5
+2,7,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,7,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Strongly Agree,5
+2,7,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,7,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Neutral,3
+2,7,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,7,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,7,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Agree,4
+2,7,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Neutral,3
+2,7,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Neutral,3
+2,7,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,7,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Agree,4
+2,7,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,8,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+2,8,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+2,8,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Agree,4
+2,8,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,8,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Agree,4
+2,8,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Agree,4
+2,8,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Agree,4
+2,8,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Agree,4
+2,8,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Agree,4
+2,8,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Neutral,3
+2,8,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Neutral,3
+2,8,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Neutral,3
+2,8,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+2,8,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Disagree,2
+2,8,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Neutral,3
+2,8,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+2,8,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Agree,4
+2,8,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Neutral,3
+2,8,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Neutral,3
+2,8,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Agree,4
+2,8,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Disagree,2
+2,8,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+2,8,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+2,8,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Disagree,2
+2,8,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,8,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,8,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,8,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+2,8,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,8,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+2,8,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+2,8,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+2,8,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,8,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+2,8,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+2,8,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,8,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,8,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+2,8,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Agree,4
+2,8,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,8,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Neutral,3
+2,8,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Neutral,3
+2,8,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Neutral,3
+2,8,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Neutral,3
+2,8,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,8,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,8,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,8,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,8,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Agree,5
+2,8,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Strongly Agree,5
+2,8,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Strongly Agree,5
+2,8,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Strongly Agree,5
+2,8,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,8,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,8,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,8,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Agree,5
+2,8,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Agree,5
+2,8,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,8,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Agree,5
+2,8,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,9,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Disagree,2
+2,9,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+2,9,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Disagree,2
+2,9,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,9,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,9,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,9,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Disagree,2
+2,9,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+2,9,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+2,9,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Disagree,2
+2,9,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Disagree,2
+2,9,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Disagree,2
+2,9,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+2,9,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Disagree,2
+2,9,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Disagree,2
+2,9,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+2,9,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Neutral,3
+2,9,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Disagree,2
+2,9,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Disagree,2
+2,9,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+2,9,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Disagree,2
+2,9,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+2,9,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+2,9,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Disagree,2
+2,9,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,9,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,9,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,9,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Neutral,3
+2,9,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,9,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+2,9,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+2,9,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Neutral,3
+2,9,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,9,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+2,9,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+2,9,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Neutral,3
+2,9,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,9,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+2,9,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Strongly Agree,5
+2,9,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Neutral,3
+2,9,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Disagree,2
+2,9,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Disagree,2
+2,9,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Disagree,2
+2,9,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Disagree,2
+2,9,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,9,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,9,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,9,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Neutral,3
+2,9,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Agree,5
+2,9,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,9,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,9,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+2,9,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,9,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,9,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,9,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Agree,5
+2,9,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Agree,4
+2,9,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,9,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Agree,5
+2,9,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,10,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Disagree,2
+2,10,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+2,10,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Disagree,2
+2,10,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,10,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,10,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,10,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Disagree,2
+2,10,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+2,10,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+2,10,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Disagree,2
+2,10,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Disagree,2
+2,10,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Disagree,2
+2,10,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+2,10,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Disagree,2
+2,10,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Disagree,2
+2,10,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+2,10,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Disagree,2
+2,10,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Disagree,2
+2,10,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Disagree,2
+2,10,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+2,10,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Disagree,2
+2,10,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+2,10,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+2,10,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Disagree,2
+2,10,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Neutral,3
+2,10,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Neutral,3
+2,10,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Neutral,3
+2,10,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Neutral,3
+2,10,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Neutral,3
+2,10,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Neutral,3
+2,10,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Neutral,3
+2,10,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Neutral,3
+2,10,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Neutral,3
+2,10,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Neutral,3
+2,10,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Neutral,3
+2,10,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Neutral,3
+2,10,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Neutral,3
+2,10,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Neutral,3
+2,10,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Neutral,3
+2,10,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Neutral,3
+2,10,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Neutral,3
+2,10,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Neutral,3
+2,10,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Neutral,3
+2,10,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Neutral,3
+2,10,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Neutral,3
+2,10,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Neutral,3
+2,10,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Neutral,3
+2,10,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Neutral,3
+2,10,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,10,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,10,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,10,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+2,10,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,10,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,10,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Agree,4
+2,10,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Agree,4
+2,10,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Agree,4
+2,10,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,10,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Agree,4
+2,10,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,11,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Disagree,2
+2,11,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+2,11,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Disagree,2
+2,11,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,11,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,11,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Strongly Disagree,1
+2,11,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Disagree,2
+2,11,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Strongly Disagree,1
+2,11,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Strongly Disagree,1
+2,11,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Disagree,2
+2,11,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Strongly Disagree,1
+2,11,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Disagree,2
+2,11,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Neutral,3
+2,11,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Neutral,3
+2,11,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Neutral,3
+2,11,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Neutral,3
+2,11,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Neutral,3
+2,11,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Neutral,3
+2,11,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Neutral,3
+2,11,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Neutral,3
+2,11,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Neutral,3
+2,11,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Neutral,3
+2,11,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Neutral,3
+2,11,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Neutral,3
+2,11,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Strongly Agree,5
+2,11,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,11,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,11,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+2,11,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,11,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Strongly Agree,5
+2,11,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+2,11,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+2,11,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,11,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+2,11,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Strongly Agree,5
+2,11,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,11,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,11,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+2,11,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Strongly Agree,5
+2,11,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,11,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Strongly Agree,5
+2,11,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Agree,4
+2,11,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Strongly Agree,5
+2,11,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,11,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Strongly Agree,5
+2,11,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,11,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,11,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Strongly Agree,5
+2,11,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Agree,5
+2,11,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Strongly Agree,5
+2,11,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Strongly Agree,5
+2,11,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Strongly Agree,5
+2,11,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,11,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,11,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,11,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Agree,5
+2,11,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Agree,5
+2,11,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,11,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Agree,5
+2,11,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,12,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+2,12,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+2,12,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Neutral,3
+2,12,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Agree,4
+2,12,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,12,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,12,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Disagree,2
+2,12,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+2,12,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+2,12,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Disagree,2
+2,12,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Disagree,2
+2,12,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Disagree,2
+2,12,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Agree,4
+2,12,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Agree,4
+2,12,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Agree,4
+2,12,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Agree,4
+2,12,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Disagree,2
+2,12,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Disagree,2
+2,12,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Neutral,3
+2,12,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+2,12,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Agree,4
+2,12,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+2,12,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Neutral,3
+2,12,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Agree,4
+2,12,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,12,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,12,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,12,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+2,12,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Neutral,3
+2,12,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Disagree,2
+2,12,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Disagree,2
+2,12,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Disagree,2
+2,12,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,12,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+2,12,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+2,12,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,12,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,12,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+2,12,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Agree,4
+2,12,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,12,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Disagree,2
+2,12,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Disagree,2
+2,12,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Disagree,2
+2,12,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,12,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,12,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,12,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,12,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,12,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,12,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,12,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,12,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+2,12,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,12,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,12,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Agree,4
+2,12,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Agree,4
+2,12,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Agree,5
+2,12,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,12,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Agree,4
+2,12,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,13,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+2,13,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Neutral,3
+2,13,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Agree,4
+2,13,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,13,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Agree,4
+2,13,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,13,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Neutral,3
+2,13,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Agree,4
+2,13,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+2,13,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Disagree,2
+2,13,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Agree,4
+2,13,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Disagree,2
+2,13,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Agree,4
+2,13,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Agree,4
+2,13,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Agree,4
+2,13,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Agree,4
+2,13,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Agree,4
+2,13,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Agree,4
+2,13,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Agree,4
+2,13,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Agree,4
+2,13,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Disagree,2
+2,13,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Neutral,3
+2,13,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+2,13,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Disagree,2
+2,13,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,13,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,13,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,13,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Neutral,3
+2,13,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,13,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Disagree,2
+2,13,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Disagree,2
+2,13,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+2,13,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,13,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Disagree,2
+2,13,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Disagree,2
+2,13,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,13,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,13,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Disagree,2
+2,13,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Neutral,3
+2,13,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,13,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+2,13,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Disagree,2
+2,13,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Neutral,3
+2,13,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,13,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,13,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Disagree,2
+2,13,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Disagree,2
+2,13,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Neutral,3
+2,13,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,13,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,13,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,13,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+2,13,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,13,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,13,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Agree,4
+2,13,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Agree,4
+2,13,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Disagree,2
+2,13,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,13,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Agree,4
+2,13,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,14,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Disagree,2
+2,14,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Disagree,2
+2,14,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Disagree,2
+2,14,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,14,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,14,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,14,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Disagree,2
+2,14,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+2,14,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+2,14,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Disagree,2
+2,14,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Disagree,2
+2,14,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Disagree,2
+2,14,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Neutral,3
+2,14,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Neutral,3
+2,14,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Neutral,3
+2,14,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Neutral,3
+2,14,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Disagree,2
+2,14,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Disagree,2
+2,14,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Disagree,2
+2,14,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+2,14,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Disagree,2
+2,14,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+2,14,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+2,14,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Disagree,2
+2,14,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,14,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,14,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,14,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+2,14,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,14,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+2,14,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+2,14,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+2,14,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,14,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+2,14,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+2,14,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,14,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,14,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+2,14,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Agree,4
+2,14,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,14,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+2,14,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Agree,4
+2,14,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Agree,4
+2,14,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,14,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,14,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,14,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,14,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,14,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,14,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,14,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,14,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+2,14,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,14,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,14,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,14,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Agree,5
+2,14,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Agree,5
+2,14,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,14,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Agree,5
+2,14,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,15,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+2,15,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Neutral,3
+2,15,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Agree,4
+2,15,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,15,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Agree,4
+2,15,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Agree,4
+2,15,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Agree,4
+2,15,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Agree,4
+2,15,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Agree,4
+2,15,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Neutral,3
+2,15,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Neutral,3
+2,15,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Disagree,2
+2,15,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+2,15,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Disagree,2
+2,15,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Disagree,2
+2,15,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+2,15,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Disagree,2
+2,15,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Disagree,2
+2,15,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Disagree,2
+2,15,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+2,15,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Disagree,2
+2,15,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+2,15,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+2,15,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Disagree,2
+2,15,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Disagree,2
+2,15,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Disagree,2
+2,15,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Neutral,3
+2,15,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Disagree,2
+2,15,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Strongly Agree,5
+2,15,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Strongly Agree,5
+2,15,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Strongly Agree,5
+2,15,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Strongly Agree,5
+2,15,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Strongly Agree,5
+2,15,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Strongly Agree,5
+2,15,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Strongly Agree,5
+2,15,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Strongly Agree,5
+2,15,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Disagree,2
+2,15,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Disagree,2
+2,15,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Disagree,2
+2,15,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Disagree,2
+2,15,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Strongly Agree,5
+2,15,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Strongly Agree,5
+2,15,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Strongly Agree,5
+2,15,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Strongly Agree,5
+2,15,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Strongly Agree,5
+2,15,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Strongly Agree,5
+2,15,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Agree,5
+2,15,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Strongly Agree,5
+2,15,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,15,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,15,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,15,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+2,15,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,15,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,15,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,15,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Agree,5
+2,15,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Agree,5
+2,15,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,15,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Agree,5
+2,15,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,16,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+2,16,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Neutral,3
+2,16,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Agree,4
+2,16,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Neutral,3
+2,16,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Agree,4
+2,16,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Agree,4
+2,16,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Agree,4
+2,16,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Agree,4
+2,16,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Agree,4
+2,16,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Agree,4
+2,16,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Agree,4
+2,16,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Agree,4
+2,16,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Agree,4
+2,16,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Agree,4
+2,16,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Agree,4
+2,16,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Neutral,3
+2,16,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Agree,4
+2,16,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Agree,4
+2,16,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Agree,4
+2,16,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Agree,4
+2,16,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Agree,4
+2,16,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Agree,4
+2,16,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Agree,4
+2,16,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Agree,4
+2,16,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Disagree,2
+2,16,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Disagree,2
+2,16,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Disagree,2
+2,16,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Disagree,2
+2,16,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,16,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+2,16,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+2,16,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+2,16,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,16,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+2,16,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+2,16,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,16,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,16,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+2,16,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Agree,4
+2,16,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,16,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+2,16,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Agree,4
+2,16,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Agree,4
+2,16,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,16,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,16,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,16,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,16,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,16,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Neutral,3
+2,16,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Neutral,3
+2,16,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Disagree,2
+2,16,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Neutral,3
+2,16,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,16,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,16,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Agree,4
+2,16,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Agree,4
+2,16,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Agree,4
+2,16,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,16,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Agree,4
+2,16,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,17,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Agree,4
+2,17,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Neutral,3
+2,17,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Disagree,2
+2,17,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,17,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,17,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,17,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Disagree,2
+2,17,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Strongly Disagree,1
+2,17,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Strongly Disagree,1
+2,17,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Strongly Disagree,1
+2,17,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Strongly Disagree,1
+2,17,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Strongly Disagree,1
+2,17,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+2,17,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Disagree,2
+2,17,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Disagree,2
+2,17,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+2,17,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Agree,4
+2,17,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Neutral,3
+2,17,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Neutral,3
+2,17,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+2,17,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Strongly Disagree,1
+2,17,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Strongly Disagree,1
+2,17,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Strongly Disagree,1
+2,17,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Strongly Disagree,1
+2,17,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,17,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,17,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,17,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+2,17,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Agree,4
+2,17,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Agree,4
+2,17,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+2,17,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+2,17,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,17,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Agree,4
+2,17,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+2,17,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,17,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Neutral,3
+2,17,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Neutral,3
+2,17,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Disagree,2
+2,17,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,17,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Neutral,3
+2,17,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Neutral,3
+2,17,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Neutral,3
+2,17,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,17,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,17,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,17,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,17,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,17,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Agree,5
+2,17,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,17,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Strongly Agree,5
+2,17,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Agree,4
+2,17,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Neutral,3
+2,17,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,17,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,17,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Agree,4
+2,17,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Disagree,2
+2,17,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,17,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Disagree,2
+2,17,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Neutral,3
+2,18,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Disagree,2
+2,18,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Agree,4
+2,18,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Neutral,3
+2,18,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,18,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,18,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Agree,4
+2,18,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Neutral,3
+2,18,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+2,18,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+2,18,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Neutral,3
+2,18,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Disagree,2
+2,18,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Disagree,2
+2,18,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+2,18,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Strongly Disagree,1
+2,18,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Disagree,2
+2,18,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+2,18,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Agree,4
+2,18,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Agree,4
+2,18,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Agree,4
+2,18,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Strongly Agree,5
+2,18,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Neutral,3
+2,18,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+2,18,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+2,18,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Neutral,3
+2,18,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,18,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,18,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Strongly Agree,5
+2,18,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Strongly Agree,5
+2,18,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Neutral,3
+2,18,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Disagree,2
+2,18,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Neutral,3
+2,18,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Agree,4
+2,18,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Neutral,3
+2,18,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Disagree,2
+2,18,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Neutral,3
+2,18,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,18,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Neutral,3
+2,18,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Disagree,2
+2,18,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Disagree,2
+2,18,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Neutral,3
+2,18,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+2,18,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Agree,4
+2,18,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Neutral,3
+2,18,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,18,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Neutral,3
+2,18,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Disagree,2
+2,18,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Neutral,3
+2,18,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Disagree,2
+2,18,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,18,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,18,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Strongly Agree,5
+2,18,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Strongly Agree,5
+2,18,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,18,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,18,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,18,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Agree,5
+2,18,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Agree,5
+2,18,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,18,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Agree,5
+2,18,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,19,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Neutral,3
+2,19,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Strongly Disagree,1
+2,19,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Disagree,2
+2,19,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,19,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,19,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Strongly Disagree,1
+2,19,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Disagree,2
+2,19,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+2,19,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+2,19,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Strongly Disagree,1
+2,19,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Disagree,2
+2,19,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Strongly Disagree,1
+2,19,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Disagree,2
+2,19,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Strongly Disagree,1
+2,19,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Disagree,2
+2,19,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+2,19,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Disagree,2
+2,19,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Strongly Disagree,1
+2,19,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Disagree,2
+2,19,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+2,19,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Strongly Disagree,1
+2,19,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Strongly Disagree,1
+2,19,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Disagree,2
+2,19,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Disagree,2
+2,19,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,19,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Neutral,3
+2,19,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Disagree,2
+2,19,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Agree,4
+2,19,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Neutral,3
+2,19,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Neutral,3
+2,19,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Strongly Disagree,1
+2,19,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Disagree,2
+2,19,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Agree,4
+2,19,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Neutral,3
+2,19,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Disagree,2
+2,19,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,19,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Neutral,3
+2,19,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Neutral,3
+2,19,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Disagree,2
+2,19,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Disagree,2
+2,19,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Disagree,2
+2,19,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Disagree,2
+2,19,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Disagree,2
+2,19,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Disagree,2
+2,19,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,19,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Disagree,2
+2,19,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Disagree,2
+2,19,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Neutral,3
+2,19,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,19,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Agree,4
+2,19,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Agree,4
+2,19,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Neutral,3
+2,19,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,19,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Agree,4
+2,19,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Agree,4
+2,19,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Neutral,3
+2,19,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Disagree,2
+2,19,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Agree,4
+2,19,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Neutral,3
+2,19,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Neutral,3
+2,20,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",0,Breakout,Disagree,2
+2,20,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,0,Breakout,Neutral,3
+2,20,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,0,Breakout,Strongly Agree,5
+2,20,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",0,Breakout,Disagree,2
+2,20,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",1,SpaceInvaders,Disagree,2
+2,20,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,1,SpaceInvaders,Disagree,2
+2,20,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,1,SpaceInvaders,Agree,4
+2,20,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",1,SpaceInvaders,Disagree,2
+2,20,Perturbation-based Saliency Map,"From the explanation, I understand how the agent works.",2,Seaquest,Disagree,2
+2,20,Perturbation-based Saliency Map,This explanation of how the agent works has sufficient detail.,2,Seaquest,Disagree,2
+2,20,Perturbation-based Saliency Map,This explanation of how the agent works is satisfying.,2,Seaquest,Agree,4
+2,20,Perturbation-based Saliency Map,"Using the explanation, I can predict the agent's next action",2,Seaquest,Disagree,2
+2,20,Grad-CAM,"From the explanation, I understand how the agent works.",3,Breakout,Neutral,3
+2,20,Grad-CAM,This explanation of how the agent works has sufficient detail.,3,Breakout,Agree,4
+2,20,Grad-CAM,This explanation of how the agent works is satisfying.,3,Breakout,Agree,4
+2,20,Grad-CAM,"Using the explanation, I can predict the agent's next action",3,Breakout,Disagree,2
+2,20,Grad-CAM,"From the explanation, I understand how the agent works.",4,SpaceInvaders,Neutral,3
+2,20,Grad-CAM,This explanation of how the agent works has sufficient detail.,4,SpaceInvaders,Neutral,3
+2,20,Grad-CAM,This explanation of how the agent works is satisfying.,4,SpaceInvaders,Agree,4
+2,20,Grad-CAM,"Using the explanation, I can predict the agent's next action",4,SpaceInvaders,Disagree,2
+2,20,Grad-CAM,"From the explanation, I understand how the agent works.",5,Seaquest,Disagree,2
+2,20,Grad-CAM,This explanation of how the agent works has sufficient detail.,5,Seaquest,Disagree,2
+2,20,Grad-CAM,This explanation of how the agent works is satisfying.,5,Seaquest,Agree,4
+2,20,Grad-CAM,"Using the explanation, I can predict the agent's next action",5,Seaquest,Disagree,2
+2,20,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",6,Breakout,Agree,4
+2,20,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,6,Breakout,Agree,4
+2,20,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,6,Breakout,Agree,4
+2,20,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",6,Breakout,Strongly Agree,5
+2,20,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",7,SpaceInvaders,Disagree,2
+2,20,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,7,SpaceInvaders,Neutral,3
+2,20,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,7,SpaceInvaders,Agree,4
+2,20,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",7,SpaceInvaders,Strongly Agree,5
+2,20,Dataset Similarity Explanation,"From the explanation, I understand how the agent works.",8,Seaquest,Disagree,2
+2,20,Dataset Similarity Explanation,This explanation of how the agent works has sufficient detail.,8,Seaquest,Neutral,3
+2,20,Dataset Similarity Explanation,This explanation of how the agent works is satisfying.,8,Seaquest,Agree,4
+2,20,Dataset Similarity Explanation,"Using the explanation, I can predict the agent's next action",8,Seaquest,Agree,4
+2,20,Skill Explanation,"From the explanation, I understand how the agent works.",9,Breakout,Agree,4
+2,20,Skill Explanation,This explanation of how the agent works has sufficient detail.,9,Breakout,Agree,4
+2,20,Skill Explanation,This explanation of how the agent works is satisfying.,9,Breakout,Agree,4
+2,20,Skill Explanation,"Using the explanation, I can predict the agent's next action",9,Breakout,Agree,4
+2,20,Skill Explanation,"From the explanation, I understand how the agent works.",10,SpaceInvaders,Agree,4
+2,20,Skill Explanation,This explanation of how the agent works has sufficient detail.,10,SpaceInvaders,Agree,4
+2,20,Skill Explanation,This explanation of how the agent works is satisfying.,10,SpaceInvaders,Agree,4
+2,20,Skill Explanation,"Using the explanation, I can predict the agent's next action",10,SpaceInvaders,Agree,4
+2,20,Skill Explanation,"From the explanation, I understand how the agent works.",11,Seaquest,Agree,4
+2,20,Skill Explanation,This explanation of how the agent works has sufficient detail.,11,Seaquest,Agree,4
+2,20,Skill Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Agree,4
+2,20,Skill Explanation,"Using the explanation, I can predict the agent's next action",11,Seaquest,Agree,4
+2,20,Plan Explanation,This explanation of how the agent works is satisfying.,11,Seaquest,Strongly Agree,5
+2,20,Plan Explanation,"Using the explanation, I can predict the agent's next action",12,Breakout,Strongly Agree,5
+2,20,Plan Explanation,"From the explanation, I understand how the agent works.",12,Breakout,Strongly Agree,5
+2,20,Plan Explanation,This explanation of how the agent works has sufficient detail.,12,Breakout,Strongly Agree,5
+2,20,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,20,Plan Explanation,"From the explanation, I understand how the agent works.",13,SpaceInvaders,Strongly Agree,5
+2,20,Plan Explanation,This explanation of how the agent works is satisfying.,13,SpaceInvaders,Strongly Agree,5
+2,20,Plan Explanation,This explanation of how the agent works has sufficient detail.,13,SpaceInvaders,Strongly Agree,5
+2,20,Plan Explanation,This explanation of how the agent works has sufficient detail.,14,Seaquest,Strongly Agree,5
+2,20,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5
+2,20,Plan Explanation,This explanation of how the agent works is satisfying.,14,Seaquest,Strongly Agree,5
+2,20,Plan Explanation,"Using the explanation, I can predict the agent's next action",14,Seaquest,Strongly Agree,5

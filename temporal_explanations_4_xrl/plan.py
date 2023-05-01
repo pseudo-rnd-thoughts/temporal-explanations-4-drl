@@ -1,4 +1,4 @@
-from typing import Optional, Union
+from __future__ import annotations
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -20,9 +20,9 @@ class Plan:
 
     def __init__(
         self,
-        skill_instances: Union[list[SkillInstance], list[list[SkillInstance]]],
-        skill_knowledge: Optional[np.ndarray] = None,
-        skill_transition_knowledge: Optional[np.ndarray] = None,
+        skill_instances: list[SkillInstance] | list[list[SkillInstance]],
+        skill_knowledge: np.ndarray | None = None,
+        skill_transition_knowledge: np.ndarray | None = None,
     ):
         """The number of skills should not include the initial or terminal skill"""
         if isinstance(skill_instances[0], list):
@@ -212,7 +212,7 @@ class Plan:
             },
         )
 
-    def plot(self, figsize: Optional[tuple[int, int]]) -> tuple[plt.Figure, plt.Axes]:
+    def plot(self, figsize: tuple[int, int] | None) -> tuple[plt.Figure, plt.Axes]:
         """Plot the plan as a direct bipartite graph.
 
         Args:

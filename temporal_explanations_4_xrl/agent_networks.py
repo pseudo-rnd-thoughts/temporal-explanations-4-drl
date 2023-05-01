@@ -1,6 +1,8 @@
 """
 Implementation of several network architectures
 """
+from __future__ import annotations
+
 import pickle
 
 import flax.linen as nn
@@ -9,7 +11,6 @@ import gymnasium as gym
 import jax.numpy as jnp
 import numpy as np
 import numpy as onp
-import tensorflow as tf
 from flax.core import FrozenDict
 from flax.training import checkpoints
 
@@ -186,81 +187,6 @@ class AtariRainbowFlaxNetwork(nn.Module):
         return self.q_network(features)
 
 
-def AtariDqnTfNetwork(num_actions: int) -> tf.keras.Model:
-    """Implementation of a TF Atari DQN network."""
-    inputs = tf.keras.Input((84, 84, 4))
-    preprocessed = inputs / 255.0
-    conv_0 = tf.keras.layers.Conv2D(
-        filters=32,
-        kernel_size=(8, 8),
-        strides=(4, 4),
-        activation="relu",
-        padding="same",
-    )(preprocessed)
-    conv_1 = tf.keras.layers.Conv2D(
-        filters=64,
-        kernel_size=(4, 4),
-        strides=(2, 2),
-        activation="relu",
-        padding="same",
-    )(conv_0)
-    conv_2 = tf.keras.layers.Conv2D(
-        filters=64,
-        kernel_size=(3, 3),
-        strides=(1, 1),
-        activation="relu",
-        padding="same",
-    )(conv_1)
-    flatten = tf.keras.layers.Flatten()(conv_2)
-
-    dense_1 = tf.keras.layers.Dense(512, activation="relu")(flatten)
-    q_values = tf.keras.layers.Dense(num_actions)(dense_1)
-
-    network = tf.keras.models.Model(inputs=inputs, outputs=q_values)
-    network.build((1, 84, 84, 4))
-    return network
-
-
-def AtariRainbowTfNetwork(num_actions: int, num_atoms: int, supports: np.ndarray):
-    """Implementation of a TF Atari (minimal) Rainbow network."""
-    assert supports.shape == (num_atoms,)
-
-    inputs = tf.keras.Input((84, 84, 4))
-    preprocessed = inputs / 255.0
-    conv_0 = tf.keras.layers.Conv2D(
-        filters=32,
-        kernel_size=(8, 8),
-        strides=(4, 4),
-        activation="relu",
-        padding="same",
-    )(preprocessed)
-    conv_1 = tf.keras.layers.Conv2D(
-        filters=64,
-        kernel_size=(4, 4),
-        strides=(2, 2),
-        activation="relu",
-        padding="same",
-    )(conv_0)
-    conv_2 = tf.keras.layers.Conv2D(
-        filters=64,
-        kernel_size=(3, 3),
-        strides=(1, 1),
-        activation="relu",
-        padding="same",
-    )(conv_1)
-    flatten = tf.keras.layers.Flatten()(conv_2)
-
-    dense_1 = tf.keras.layers.Dense(512, activation="relu")(flatten)
-    dense_2 = tf.keras.layers.Dense(num_actions * num_atoms)(dense_1)
-    reshaped = tf.keras.layers.Reshape((num_actions, num_atoms))(dense_2)
-    probabilities = tf.nn.softmax(reshaped, axis=2)
-    q_values = tf.reduce_sum(probabilities * supports, axis=2)
-
-    network = tf.keras.models.Model(inputs=inputs, outputs=q_values)
-    network.build((1, 84, 84, 4))
-    return network
-
-
 def load_dopamine_dqn_flax_model(
     env_name: str, model_root_folder: str, model_name: str = "dqn_adam_mse"
 ) -> tuple[AtariDqnFlaxNetwork, FrozenDict]:
@@ -292,14 +218,3 @@ def load_dopamine_rainbow_flax_model(
             {"params": checkpoints.convert_pre_linen(param_data["online_params"])}
         )
     return model_def, model_params
-
-
-def flax_to_tf_weights(flax_params: FrozenDict, tf_model: tf.keras.models.Sequential):
-    """Sets a tf model weights from flax params."""
-    tf_model.set_weights(
-        [
-            np.array(flax_params["params"][param][weight_type])
-            for param in flax_params["params"]
-            for weight_type in ["kernel", "bias"]
-        ]
-    )

@@ -2,9 +2,13 @@
 Functions for explanation mechanisms
 - Dataset explanation: Implementation of the dataset similarity explanation from our work
 - Skill explanation: Implementation of the skill based explanation from our work
+- Plan explanation: Implementation of the plan + skill-based explanation from our work
+- Grad-CAM: Implementation of Selvaraju et al., 2016 "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization"
+- Perturbation-based Saliency Map: Implementation of Greyanus et al., 2018 "Visualizing and Understanding Atari Agents"
 """
+from __future__ import annotations
+
 import textwrap
-from typing import Union
 
 import cv2
 import flax.core
@@ -23,6 +27,19 @@ from temporal_explanations_4_xrl.plan import Plan
 from temporal_explanations_4_xrl.skill import SkillInstance
 
 FONT_SIZE = 18
+
+
+__all__ = [
+    "generate_obs_to_explain",
+    "generate_dataset_explanation",
+    "generate_skill_explanation",
+    "generate_plan_explanation",
+    "generate_atari_perturbation_saliency_explanation",
+    "generate_atari_grad_cam_explanation",
+    "save_explanation",
+    "save_observation_with_explanation",
+    "save_observation_with_two_explanations",
+]
 
 
 def generate_obs_to_explain(
@@ -57,9 +74,61 @@ def generate_obs_to_explain(
     return explain_indexes
 
 
-def save_individual_explanation(
+def save_explanation(
+    explanation: onp.ndarray | tuple[onp.ndarray, str],
+    filename: str,
+    fps: int = 10,
+):
+    """Saves an explanation using a filename and frames per second
+
+    Args:
+        explanation: The explanation for an observation
+        filename: The save filename
+        fps: The frames per second
+    """
+    if isinstance(explanation, tuple):
+        explanation, expert_knowledge = explanation
+        assert isinstance(expert_knowledge, str)
+    else:
+        expert_knowledge = None
+    assert (
+            isinstance(explanation, onp.ndarray)
+            and explanation.ndim == 4
+            and explanation.shape[-1] == 3
+    )
+
+    fig, axs = plt.subplots(figsize=(5, 5))
+    axs.set_title("Explanation", fontsize=FONT_SIZE)
+    explanation_plot = axs.imshow(explanation[0])
+    if expert_knowledge is not None:
+        axs.text(
+            79,
+            215,
+            "\n".join(textwrap.wrap(expert_knowledge, width=19)),
+            fontsize=15,
+            horizontalalignment="center",
+            verticalalignment="top",
+        )
+    axs.axis("off")
+    plt.tight_layout()
+
+    if explanation.shape[0] == 1:
+        plt.savefig(f"{filename}.png")
+    else:
+
+        def _update_plot(time_step):
+            explanation_plot.set_data(explanation[time_step])
+            return (explanation_plot,)
+
+        animation = FuncAnimation(fig, _update_plot, frames=len(explanation), blit=True)
+        animation.save(f"{filename}.mp4", fps=fps)
+
+    plt.close()
+
+
+def save_observation_with_explanation(
     obs: onp.ndarray,
-    explanation: Union[onp.ndarray, tuple[onp.ndarray, str]],
+    explanation: onp.ndarray | tuple[onp.ndarray, str],
     filename: str,
     fps: int = 10,
 ):
@@ -69,7 +138,7 @@ def save_individual_explanation(
         obs: The agent observation to explain
         explanation: The explanation for the observation
         filename: The save filename
-        fps: The number of frames per second
+        fps: The frames per second
     """
     assert isinstance(obs, onp.ndarray) and obs.ndim == 3 and obs.shape[-1] == 3
     if isinstance(explanation, tuple):
@@ -114,10 +183,10 @@ def save_individual_explanation(
     plt.close()
 
 
-def save_contrastive_explanation(
+def save_observation_with_two_explanations(
     obs: onp.ndarray,
-    explanation_1: Union[onp.ndarray, tuple[onp.ndarray, str]],
-    explanation_2: Union[onp.ndarray, tuple[onp.ndarray, str]],
+    explanation_1: onp.ndarray | tuple[onp.ndarray, str],
+    explanation_2: onp.ndarray | tuple[onp.ndarray, str],
     filename: str,
     fps: int = 10,
 ):
@@ -128,7 +197,7 @@ def save_contrastive_explanation(
         explanation_1: The first anonymous explanation for the observation
         explanation_2: The second anonymous explanation for the observation
         filename: The save filename
-        fps: The number of frames per second
+        fps: The frames per second
     """
     expert_knowledge_1, expert_knowledge_2 = None, None
     assert isinstance(obs, onp.ndarray) and obs.ndim == 3 and obs.shape[-1] == 3
@@ -354,7 +423,7 @@ def generate_plan_explanation(
         The visual explanation along with expert knowledge text
     """
     assert isinstance(plan.skill_knowledge, onp.ndarray)
-    assert plan.skill_knowledge.dtype == np.object, type(plan.skill_knowledge.dtype)
+    assert plan.skill_knowledge.dtype == np.object_, type(plan.skill_knowledge.dtype)
     assert plan.skill_knowledge.ndim == 1
     assert plan.skill_knowledge.shape == (plan.unique_skill_types,)
 

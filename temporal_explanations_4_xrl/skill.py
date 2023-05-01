@@ -2,6 +2,8 @@
 Implements a planning model class and a subclass expert planning model class that allows expert model to be embedded
     into the plan
 """
+from __future__ import annotations
+
 from dataclasses import dataclass
 
 import numpy as np
@@ -191,7 +193,7 @@ def skill_alignment(
     penalty: float,
     policy_distance: callable,
     direction: str = "maximize",
-) -> tuple[float, "pyalign.solve.Solution"]:
+) -> tuple[float, pyalign.solve.Solution]:
     """Computes the skill alignment between two skills using the Smith-Waterman Algorithm.
 
     Args:

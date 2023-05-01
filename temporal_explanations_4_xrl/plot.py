@@ -1,9 +1,9 @@
 """
 Visualisation functions for the planning model.
 """
+from __future__ import annotations
 
 import random as rnd
-from typing import Union
 
 import matplotlib.colors as colours
 import matplotlib.pyplot as plt
@@ -24,7 +24,7 @@ def plot_embedding(
     figsize: tuple[int, int] = None,
     fontsize: int = 10,
     point_size: int = 4,
-) -> tuple[plt.Figure, Union[plt.Axes, tuple[plt.Axes, plt.Axes]]]:
+) -> tuple[plt.Figure, plt.Axes | tuple[plt.Axes, plt.Axes]]:
     """Visualise a 2-dimensional embedding using the state values and trajectories.
 
     Additional, on hover capacity with obs argument.

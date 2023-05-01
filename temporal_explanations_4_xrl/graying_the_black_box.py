@@ -1,8 +1,9 @@
 """
 Implementation of kmeans using a spatio-temporal distances function
 """
+from __future__ import annotations
 
-from typing import Any, Union
+from typing import Any
 
 import flax.linen as nn
 import jax
@@ -90,7 +91,7 @@ def load_network_features(filename: str) -> onp.ndarray:
 
 
 def pca_reduce_features(
-    feature_dataset: onp.ndarray, components: Union[int, float] = 50
+    feature_dataset: onp.ndarray, components: int | float = 50
 ) -> tuple[onp.ndarray, onp.ndarray, onp.ndarray]:
     """Reduces the features using PCA to find the most 'important' features to the agent
 
