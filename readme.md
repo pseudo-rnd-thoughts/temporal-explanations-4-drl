@@ -5,109 +5,58 @@
 
 ## Example Explanations
 
-<video>
-    <source src="user-survey/observation-explanations/contrastive-0.mp4">
-</video>
+https://user-images.githubusercontent.com/14953262/235640238-638d8f1a-89e6-437d-83f7-42eeabe88b03.mp4
 
 <details>
 <summary>Example observation for Breakout</summary>
 <img src="analysis/figs/examples/Breakout/observation.png">
 
-<details>
-    <summary>Dataset Similarity Explanation</summary>
-    <video>
-        <source src="analysis/figs/examples/Breakout/dataset-similarity-explanation.mp4">
-    </video>
-</details>
+https://user-images.githubusercontent.com/14953262/235640312-9d76126b-1c4f-4a55-b59a-0e35c4d91385.mp4
 
-<details>
-    <summary>Skill Explanation</summary>
-    <video>
-        <source src="analysis/figs/examples/Breakout/skill-explanation.mp4">
-    </video>
-</details>
-<details>
-    <summary>Plan Explanation</summary>
-    <video>
-        <source src="analysis/figs/examples/Breakout/plan-explanation.mp4">
-    </video>
-</details>
-<details>
-    <summary>Grad-CAM Explanation</summary>
-    <img src="analysis/figs/examples/Breakout/grad-cam.png">
-</details>
-<details>
-    <summary>Perturbation-based Saliency Maps</summary>
-    <img src="analysis/figs/examples/Breakout/perturbation-based-saliency-map.png">
-</details>
+https://user-images.githubusercontent.com/14953262/235640340-17f2fbe7-8461-48e2-aa05-661d7190e634.mp4
+
+https://user-images.githubusercontent.com/14953262/235640597-dd0a79df-ee34-487a-9c30-deec4ae04107.mp4
+
+<p>Grad-CAM Explanation</p>
+<img src="analysis/figs/examples/Breakout/grad-cam.png">
+
+<p>Perturbation-based Saliency Maps</p>
+<img src="analysis/figs/examples/Breakout/perturbation-based-saliency-map.png">
 </details>
 
 <details>
 <summary>Example observation for Space Invaders</summary>
 <img src="analysis/figs/examples/SpaceInvaders/observation.png">
 
-<details>
-    <summary>Dataset Similarity Explanation</summary>
-    <video>
-        <source src="analysis/figs/examples/SpaceInvaders/dataset-similarity-explanation.mp4">
-    </video>
-</details>
+https://user-images.githubusercontent.com/14953262/235641388-5367a411-dbd1-4db9-8d3b-2893778d6efd.mp4
 
-<details>
-    <summary>Skill Explanation</summary>
-    <video>
-        <source src="analysis/figs/examples/SpaceInvaders/skill-explanation.mp4">
-    </video>
-</details>
-<details>
-    <summary>Plan Explanation</summary>
-    <video>
-        <source src="analysis/figs/examples/SpaceInvaders/plan-explanation.mp4">
-    </video>
-</details>
-<details>
-    <summary>Grad-CAM Explanation</summary>
-    <img src="analysis/figs/examples/SpaceInvaders/grad-cam.png">
-</details>
-<details>
-    <summary>Perturbation-based Saliency Maps</summary>
-    <img src="analysis/figs/examples/SpaceInvaders/perturbation-based-saliency-map.png">
-</details>
+https://user-images.githubusercontent.com/14953262/235641418-3886ab15-4574-483b-87aa-93366d374e6e.mp4
+
+https://user-images.githubusercontent.com/14953262/235641428-1fa21eea-2ac1-4ecc-8f84-379c30d27e6f.mp4
+
+<p>Grad-CAM Explanation</p>
+<img src="analysis/figs/examples/SpaceInvaders/grad-cam.png">
+
+<p>Perturbation-based Saliency Maps</p>
+<img src="analysis/figs/examples/SpaceInvaders/perturbation-based-saliency-map.png">
 </details>
 
 <details>
 <summary>Example observation for Seaquest</summary>
 <img src="analysis/figs/examples/Seaquest/observation.png">
 
-<details>
-    <summary>Dataset Similarity Explanation</summary>
-    <video>
-        <source src="analysis/figs/examples/Seaquest/dataset-similarity-explanation.mp4">
-    </video>
-</details>
+https://user-images.githubusercontent.com/14953262/235641598-f4f71d22-d164-43ae-b79c-2d40f74d700f.mp4
 
-<details>
-    <summary>Skill Explanation</summary>
-    <video>
-        <source src="analysis/figs/examples/Seaquest/skill-explanation.mp4">
-    </video>
-</details>
-<details>
-    <summary>Plan Explanation</summary>
-    <video>
-        <source src="analysis/figs/examples/Seaquest/plan-explanation.mp4">
-    </video>
-</details>
-<details>
-    <summary>Grad-CAM Explanation</summary>
-    <img src="analysis/figs/examples/Seaquest/grad-cam.png">
-</details>
-<details>
-    <summary>Perturbation-based Saliency Maps</summary>
-    <img src="analysis/figs/examples/Seaquest/perturbation-based-saliency-map.png">
-</details>
-</details>
+https://user-images.githubusercontent.com/14953262/235641607-a6b1fdc7-333f-40ed-a0c1-9e2b2699800f.mp4
 
+https://user-images.githubusercontent.com/14953262/235641620-38a63ee8-26a5-4ee4-b6ff-54775e02f71b.mp4
+
+<p>Grad-CAM Explanation</p>
+<img src="analysis/figs/examples/Seaquest/grad-cam.png">
+
+<p>Perturbation-based Saliency Maps</p>
+<img src="analysis/figs/examples/Seaquest/perturbation-based-saliency-map.png">
+</details>
 
 ## User Survey results
 
