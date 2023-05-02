@@ -5,7 +5,11 @@
 
 ## Example Explanations
 
+An example contrastive question from the user survey with an observation from breakout, our novel Plan explanation and on the right a perturbation-based saliency map. 
+
 https://user-images.githubusercontent.com/14953262/235640238-638d8f1a-89e6-437d-83f7-42eeabe88b03.mp4
+
+Click on the following dropdowns to see more examples with all the evaluated explanations mechanisms. 
 
 <details>
 <summary>Example observation for Breakout</summary>
@@ -60,19 +64,23 @@ https://user-images.githubusercontent.com/14953262/235641620-38a63ee8-26a5-4ee4-
 
 ## User Survey results
 
+A box plot of the user ratings for each individual explanation mechanisms across 4 different questions. 
+
 ![User rating](analysis/figs/survey/individual-evaluation.png)
+
+A heatmap of the user preference when shown 
 
 ![Comparative Rating](analysis/figs/survey/contrastive-evaluation.png)
 
-![Environment Rating](analysis/figs/survey/environment-individual-evaluation.png)
-
-![Explanation Variance](analysis/figs/survey/explanation-variances.png)
+All observation explanations shown to the users are provided in [user-survey](user-survey/observation-explanations) with the raw survey [data](user-survey/survey-1-results.xlsx) and analysis [notebook](user-survey/survey-analysis.ipynb).  
 
 ## Discovered Skills evaluation
 
-![Example Plan](analysis/figs/quantitative/plan-directed-network-Breakout.png)
+The skill alignment for hand-labelled skills (left) and skills discovered by Zahavy et al., 2016 (right). 
 
 ![Skill Alignment](analysis/figs/quantitative/skill-similarity-hand-zahavy-Breakout.png)
+
+The skill length distribution for the hand-labelled skills (top) and skills discovered by Zahavy et al., 2016 (bottom). 
 
 ![Skill Length Distribution](analysis/figs/quantitative/skill-length-distribution-hand-zahavy-Breakout.png)
 
