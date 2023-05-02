@@ -42,6 +42,72 @@
 </details>
 </details>
 
+<details>
+<summary>Example observation for Space Invaders</summary>
+<img src="analysis/figs/examples/SpaceInvaders/observation.png">
+
+<details>
+    <summary>Dataset Similarity Explanation</summary>
+    <video>
+        <source src="analysis/figs/examples/SpaceInvaders/dataset-similarity-explanation.mp4">
+    </video>
+</details>
+
+<details>
+    <summary>Skill Explanation</summary>
+    <video>
+        <source src="analysis/figs/examples/SpaceInvaders/skill-explanation.mp4">
+    </video>
+</details>
+<details>
+    <summary>Plan Explanation</summary>
+    <video>
+        <source src="analysis/figs/examples/SpaceInvaders/plan-explanation.mp4">
+    </video>
+</details>
+<details>
+    <summary>Grad-CAM Explanation</summary>
+    <img src="analysis/figs/examples/SpaceInvaders/grad-cam.png">
+</details>
+<details>
+    <summary>Perturbation-based Saliency Maps</summary>
+    <img src="analysis/figs/examples/SpaceInvaders/perturbation-based-saliency-map.png">
+</details>
+</details>
+
+<details>
+<summary>Example observation for Seaquest</summary>
+<img src="analysis/figs/examples/Seaquest/observation.png">
+
+<details>
+    <summary>Dataset Similarity Explanation</summary>
+    <video>
+        <source src="analysis/figs/examples/Seaquest/dataset-similarity-explanation.mp4">
+    </video>
+</details>
+
+<details>
+    <summary>Skill Explanation</summary>
+    <video>
+        <source src="analysis/figs/examples/Seaquest/skill-explanation.mp4">
+    </video>
+</details>
+<details>
+    <summary>Plan Explanation</summary>
+    <video>
+        <source src="analysis/figs/examples/Seaquest/plan-explanation.mp4">
+    </video>
+</details>
+<details>
+    <summary>Grad-CAM Explanation</summary>
+    <img src="analysis/figs/examples/Seaquest/grad-cam.png">
+</details>
+<details>
+    <summary>Perturbation-based Saliency Maps</summary>
+    <img src="analysis/figs/examples/Seaquest/perturbation-based-saliency-map.png">
+</details>
+</details>
+
 
 ## User Survey results
 
