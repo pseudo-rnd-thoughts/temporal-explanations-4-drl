@@ -92,9 +92,9 @@ def save_explanation(
     else:
         expert_knowledge = None
     assert (
-            isinstance(explanation, onp.ndarray)
-            and explanation.ndim == 4
-            and explanation.shape[-1] == 3
+        isinstance(explanation, onp.ndarray)
+        and explanation.ndim == 4
+        and explanation.shape[-1] == 3
     )
 
     fig, axs = plt.subplots(figsize=(5, 5))
