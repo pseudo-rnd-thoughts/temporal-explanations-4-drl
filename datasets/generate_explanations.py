@@ -9,18 +9,18 @@ from datasets.generate_datasets import (
     DOPAMINE_DQN_ATARI_AGENT_ENVS,
     DOPAMINE_RAINBOW_ATARI_AGENT_ENVS,
 )
-from temporal_explanations_4_xrl.agent_networks import (
+from temporal_explanations_4_drl.agent_networks import (
     load_dopamine_dqn_flax_model,
     load_dopamine_rainbow_flax_model,
 )
-from temporal_explanations_4_xrl.dataset import (
+from temporal_explanations_4_drl.dataset import (
     load_atari_human_obs,
     load_atari_obs,
     load_discrete_actions,
     load_q_values,
     load_trajectories,
 )
-from temporal_explanations_4_xrl.explain import (
+from temporal_explanations_4_drl.explain import (
     atari_greyscale_saliency_map,
     generate_atari_grad_cam_explanation,
     generate_atari_perturbation_saliency_explanation,
@@ -31,9 +31,9 @@ from temporal_explanations_4_xrl.explain import (
     save_observation_with_explanation,
     save_observation_with_two_explanations,
 )
-from temporal_explanations_4_xrl.plan import Plan
-from temporal_explanations_4_xrl.skill import skill_labels_to_trajectory_skills
-from temporal_explanations_4_xrl.utils import load_embedding
+from temporal_explanations_4_drl.plan import Plan
+from temporal_explanations_4_drl.skill import skill_labels_to_trajectory_skills
+from temporal_explanations_4_drl.utils import load_embedding
 
 
 def generate_explanation_obs(

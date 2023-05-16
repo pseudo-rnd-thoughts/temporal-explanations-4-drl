@@ -3,11 +3,11 @@ from typing import Optional
 
 from jax import vmap
 
-from temporal_explanations_4_xrl.agent_networks import (
+from temporal_explanations_4_drl.agent_networks import (
     load_dopamine_dqn_flax_model,
     load_dopamine_rainbow_flax_model,
 )
-from temporal_explanations_4_xrl.dataset import generate_atari_dataset
+from temporal_explanations_4_drl.dataset import generate_atari_dataset
 
 
 def make_atari_dopamine_dqn_dataset(

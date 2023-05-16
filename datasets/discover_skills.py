@@ -10,17 +10,17 @@ from datasets.generate_datasets import (
     DOPAMINE_DQN_ATARI_AGENT_ENVS,
     DOPAMINE_RAINBOW_ATARI_AGENT_ENVS,
 )
-from temporal_explanations_4_xrl.agent_networks import (
+from temporal_explanations_4_drl.agent_networks import (
     load_dopamine_dqn_flax_model,
     load_dopamine_rainbow_flax_model,
 )
-from temporal_explanations_4_xrl.dataset import (
+from temporal_explanations_4_drl.dataset import (
     load_atari_obs,
     load_discrete_actions,
     load_state_values,
     load_trajectories,
 )
-from temporal_explanations_4_xrl.graying_the_black_box import (
+from temporal_explanations_4_drl.graying_the_black_box import (
     GrayingTheBlackBoxKMeans,
     SpatioTemporalKMeans,
     feature_extraction,
@@ -30,12 +30,12 @@ from temporal_explanations_4_xrl.graying_the_black_box import (
     run_tsne,
     save_network_features,
 )
-from temporal_explanations_4_xrl.plan import Plan
-from temporal_explanations_4_xrl.skill import (
+from temporal_explanations_4_drl.plan import Plan
+from temporal_explanations_4_drl.skill import (
     discrete_policy_distance,
     skill_labels_to_trajectory_skills,
 )
-from temporal_explanations_4_xrl.utils import load_embedding
+from temporal_explanations_4_drl.utils import load_embedding
 
 
 def run_graying_the_black_box_tsne(

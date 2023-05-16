@@ -6,9 +6,9 @@ import numpy as np
 from matplotlib.animation import FuncAnimation
 from matplotlib.widgets import TextBox
 
-from temporal_explanations_4_xrl.dataset import load_atari_human_obs
-from temporal_explanations_4_xrl.plan import Plan
-from temporal_explanations_4_xrl.skill import SkillInstance
+from temporal_explanations_4_drl.dataset import load_atari_human_obs
+from temporal_explanations_4_drl.plan import Plan
+from temporal_explanations_4_drl.skill import SkillInstance
 
 """
 Must be run from the terminal
